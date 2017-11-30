@@ -1,4 +1,5 @@
 ```javascript
+//截取字符串长度
 cutstr(str, len) {
   let str_length = 0,
     str_len = str.length,
